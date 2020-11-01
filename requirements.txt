@@ -1,0 +1,12 @@
+numpy
+ipywidgets
+nbinteract
+pandas
+seaborn
+matplotlib
+fiona
+pyproj
+shapely
+geopandas
+contextily
+sklearn
